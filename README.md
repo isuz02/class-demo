@@ -1,1 +1,1 @@
-# class-demo
+# Class exaples
